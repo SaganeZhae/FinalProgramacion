@@ -1,0 +1,117 @@
+[
+    {
+        "1402090": {
+            "type": "game",
+            "name": "Crisis Wing",
+            "steam_appid": 1402090,
+            "required_age": 0,
+            "is_free": false,
+            "dlc": null,
+            "release_date": {
+                "coming_soon": false,
+                "date": "18 Sep, 2020"
+            },
+            "detailed_description": "Crisis Wing is a mid-90’s style arcade shoot’em up (shmup) game with frantic fast-paced gameplay and colorful pixel graphics. <br><br><ul class=\"bb_ul\"><li>Blaze through <strong>7 challenging stages</strong>, beat hordes of smaller enemies and face enormous bosses - solo or co-op.<br></li><li>Score-attack and Boss Rush <strong>bonus games</strong> with unique levels and bosses.<br></li><li>Beautiful pixel graphics and rocking FM soundtrack.<br></li><li>Practice mode to practice and re-play stages with infinite lives.<br></li><li>Screen rotation support to take full benefit from rotatable displays.<br></li><li>CRT filter support for real old-school pixel crunchiness.</li></ul><br><strong>App Version 1.1.5</strong> - Dec 5, 2023<br>See patch notes: ",
+            "about_the_game": "Crisis Wing is a mid-90’s style arcade shoot’em up (shmup) game with frantic fast-paced gameplay and colorful pixel graphics. <br><br><ul class=\"bb_ul\"><li>Blaze through <strong>7 challenging stages</strong>, beat hordes of smaller enemies and face enormous bosses - solo or co-op.<br></li><li>Score-attack and Boss Rush <strong>bonus games</strong> with unique levels and bosses.<br></li><li>Beautiful pixel graphics and rocking FM soundtrack.<br></li><li>Practice mode to practice and re-play stages with infinite lives.<br></li><li>Screen rotation support to take full benefit from rotatable displays.<br></li><li>CRT filter support for real old-school pixel crunchiness.</li></ul><br><strong>App Version 1.1.5</strong> - Dec 5, 2023<br>See patch notes: ",
+            "short_description": "Frantic vertically scrolling arcade shoot'em up (shmup).",
+            "supported_languages": "English",
+            "website": null,
+            "pc_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br></li><li><strong>Processor:</strong> Dual Core or better<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>DirectX:</strong> Version 10<br></li><li><strong>Storage:</strong> 117 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5 or AMD equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 117 MB available space</li></ul>"
+            },
+            "mac_requirements": {
+                "minimum": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10.15 Catalina<br></li><li><strong>Graphics:</strong> Metal compatible GPU<br></li><li><strong>Storage:</strong> 170 MB available space</li></ul>",
+                "recommended": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 11.0 Big Sur<br></li><li><strong>Graphics:</strong> Metal compatible GPU<br></li><li><strong>Storage:</strong> 170 MB available space</li></ul>"
+            },
+            "linux_requirements": [],
+            "legal_notice": "Copyright 2023 Pieslice Productions",
+            "developers": [
+                "Pieslice Productions"
+            ],
+            "publishers": [
+                "Pieslice Productions"
+            ],
+            "price_overview": {
+                "currency": "USD",
+                "initial": 799,
+                "final": 799,
+                "discount_percent": 0,
+                "initial_formatted": "",
+                "final_formatted": "$7.99 USD"
+            },
+            "packages": [
+                496124
+            ],
+            "package_groups": [
+                {
+                    "name": "default",
+                    "title": "Buy Crisis Wing",
+                    "description": "",
+                    "selection_text": "Select a purchase option",
+                    "save_text": "",
+                    "display_type": 0,
+                    "is_recurring_subscription": "false",
+                    "subs": [
+                        {
+                            "packageid": 496124,
+                            "percent_savings_text": " ",
+                            "percent_savings": 0,
+                            "option_text": "Crisis Wing - $7.99 USD",
+                            "option_description": "",
+                            "can_get_free_license": "0",
+                            "is_free_license": false,
+                            "price_in_cents_with_discount": 799
+                        }
+                    ]
+                }
+            ],
+            "platforms": {
+                "windows": true,
+                "mac": true,
+                "linux": false
+            },
+            "metacritic": null,
+            "categories": [
+                {
+                    "id": 2,
+                    "description": "Single-player"
+                },
+                {
+                    "id": 1,
+                    "description": "Multi-player"
+                },
+                {
+                    "id": 9,
+                    "description": "Co-op"
+                },
+                {
+                    "id": 39,
+                    "description": "Shared/Split Screen Co-op"
+                },
+                {
+                    "id": 24,
+                    "description": "Shared/Split Screen"
+                },
+                {
+                    "id": 28,
+                    "description": "Full controller support"
+                },
+                {
+                    "id": 62,
+                    "description": "Family Sharing"
+                }
+            ],
+            "genres": [
+                {
+                    "id": "1",
+                    "description": "Action"
+                },
+                {
+                    "id": "23",
+                    "description": "Indie"
+                }
+            ]
+        }
+    }
+]
